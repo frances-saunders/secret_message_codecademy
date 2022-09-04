@@ -1,3 +1,5 @@
+//This script fulfills the project reqs for "Secret Message" in Codecademy
+
 let secretMessage = ['Learning', 'is', 'not', 'about', 'what', 'you', 'get', 'easily', 'the', 'first', 'time,', 'it', 'is', 'about', 'what', 'you', 'can', 'figure', 'out.', '-2015,', 'Chris', 'Pine,', 'Learn', 'JavaScript'];
 
 secretMessage.pop();
